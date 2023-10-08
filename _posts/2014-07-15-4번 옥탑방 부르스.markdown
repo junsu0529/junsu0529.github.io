@@ -2,7 +2,7 @@
 layout: default
 modal-id: 4
 date: 2014-07-15
-img: circus.png
+img: 4th.png
 alt: image-alt
 description: <으마카세><br>
              <br>저 들판의 꽃은 꺾지 마라
