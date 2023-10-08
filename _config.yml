@@ -1,10 +1,13 @@
 # Site settings
-title: First's Music Listening Party
+title: 2023 '청춘'이 '청춘'에게
 email: junsu0529@gmail.com
 url: https://junsu0529.github.io/
-description: 착륙버튼 없는 여행
-keywords: "청춘, 도전, 음악"
-skills: "하마립스 - 으마카세 - 쏭해"
+description: 청춘인 사람들, 청춘이었던 사람들, 이제 청춘일 모든 사람들 중 한 명의 청춘인 당신을 초대합니다. 
+keywords: "청춘, 도전"
+skills: "청춘이란 인생의 어떤 기간이 아니라 마음의 상태를 말한다.\n\n
+         '청춘'이라는 주제로 음감회, 상영회를 진행합니다.\n 
+         (1) 음감회: [앨범명] 착륙 버튼 없는 여행 (6 Track)\n 
+         (2) 상영회: [영화제목] 무인사진관"
 meta_author: Junsu Lee
 
 # Google webmaster tools
@@ -34,7 +37,7 @@ color:
 footer:
   copyright: Junsu Lee
   location: Location
-  social: Visit Me More
+  social: Visit Us More
   credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
@@ -52,7 +55,7 @@ address:
   - line: 국사봉로12길 8-1, 402호
 
 # Credits content
-credits: '감사감사합니다.'
+credits: '착륙 버튼 없는 여행\n하마립스\n으마카세\n쏭해\n\n무인 사진관\n이문주\n윤정\n이재성'
 
 # Build settings
 markdown: kramdown
