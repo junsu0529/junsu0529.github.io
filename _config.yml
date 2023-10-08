@@ -4,9 +4,9 @@ email: junsu0529@gmail.com
 url: https://junsu0529.github.io/
 description: 청춘인 사람들, 청춘이었던 사람들, 이제 청춘일 모든 사람들 중 한 명의 청춘인 당신을 초대합니다. 
 keywords: "청춘, 도전"
-skills: "청춘이란 인생의 어떤 기간이 아니라 마음의 상태를 말한다.\n\n
-         '청춘'이라는 주제로 음감회, 상영회를 진행합니다.\n 
-         (1) 음감회: [앨범명] 착륙 버튼 없는 여행 (6 Track)\n 
+skills: "청춘이란 인생의 어떤 기간이 아니라 마음의 상태를 말한다.<br><br>
+         '청춘'이라는 주제로 음감회, 상영회를 진행합니다.<br>
+         (1) 음감회: [앨범명] 착륙 버튼 없는 여행 (6 Track)<br> 
          (2) 상영회: [영화제목] 무인사진관"
 meta_author: Junsu Lee
 
@@ -36,7 +36,7 @@ color:
 # Footer settings
 footer:
   copyright: Junsu Lee
-  location: Location
+  location: Date & Location
   social: Visit Us More
   credits: Credits
 
@@ -53,11 +53,11 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 서울시 동작구
-  - line: 국사봉로12길 8-1, 402호
+  - line: 2023. 10. 13. (금), 19:30 ~ 21:00
+  - line: 홍대 스페이스M (마포구 양화로15길 17)
 
 # Credits content
-credits: '착륙 버튼 없는 여행\n하마립스\n으마카세\n쏭해\n\n무인 사진관\n이문주\n윤정\n이재성'
+credits: '착륙 버튼 없는 여행<br>하마립스<br>으마카세<br>쏭해<br><br>무인 사진관<br>이문주<br>윤정<br>이재성'
 
 # Build settings
 markdown: kramdown
