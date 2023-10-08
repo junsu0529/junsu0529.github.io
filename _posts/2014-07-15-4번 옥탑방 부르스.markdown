@@ -4,8 +4,7 @@ modal-id: 4
 date: 2014-07-15
 img: circus.png
 alt: image-alt
-description: [으마카세]
-             <br>
+description: <으마카세><br>
              <br>저 들판의 꽃은 꺾지 마라
              <br>식물도 아픔을 모르진 않아
              <br>유치원을 졸업하고 학교에 입학
