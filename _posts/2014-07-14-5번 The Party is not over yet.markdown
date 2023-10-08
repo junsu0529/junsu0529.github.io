@@ -2,7 +2,7 @@
 layout: default
 modal-id: 5
 date: 2014-07-14
-img: safe.png
+img: 5th.png
 alt: image-alt
 description: <하마립스>
              <br>비트는 로파이 내 이상은 Too High
