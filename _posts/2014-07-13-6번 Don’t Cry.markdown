@@ -2,7 +2,7 @@
 layout: default
 modal-id: 6
 date: 2014-07-15
-img: submarine.png
+img: 6th.png
 alt: image-alt
 description: <하마립스>
              <br>
