@@ -2,7 +2,7 @@
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: cake.png
+img: 2nd.png
 alt: image-alt
 description: <으마카세>
              <br>영어로는 Youth라는 가슴 뛰는 단어
