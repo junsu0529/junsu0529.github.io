@@ -57,7 +57,7 @@ address:
   - line: 홍대 스페이스M (마포구 양화로15길 17)
 
 # Credits content
-credits: '착륙 버튼 없는 여행<br>하마립스<br>으마카세<br>쏭해<br><br>무인 사진관<br>이문주<br>윤정<br>이재성'
+credits: '<착륙 버튼 없는 여행><br>하마립스 으마카세 쏭해<br><br><무인 사진관><br>이문주 윤정 이재성'
 
 # Build settings
 markdown: kramdown
