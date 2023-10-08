@@ -2,7 +2,7 @@
 layout: default
 modal-id: 3
 date: 2014-07-16
-img: circus.png
+img: 3rd.png
 alt: image-alt
 description: <하마립스>
              <br>아무렴 어때 Be O.K 하루쯤 지각 한대도
