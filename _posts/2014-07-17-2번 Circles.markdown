@@ -4,10 +4,7 @@ modal-id: 2
 date: 2014-07-17
 img: cake.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description:  <으마카세>
+description: <으마카세>
              <br>영어로는 Youth라는 가슴 뛰는 단어
              <br>한자 뜻은 푸를 청 봄 춘인데
              <br>내 청춘의 색은 많이 어두웠네
