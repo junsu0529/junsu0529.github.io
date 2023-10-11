@@ -43,11 +43,11 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: instagram
-    url: http://instagram.com/
+    url: https://www.instagram.com/kooooo_koo
   - title: youtube
     url: https://www.youtube.com/@u_makase
   - title: youtube
-    url: youtube.com/@visualpoemeyes
+    url: https://www.youtube.com/@visualpoemeyes
   - title: github
     url: http://github.com/junsu0529
 
@@ -57,7 +57,7 @@ address:
   - line: 홍대 스페이스M (마포구 양화로15길 17)
 
 # Credits content
-credits: '<착륙 버튼 없는 여행><br>하마립스 으마카세 쏭해<br><br><무인 사진관><br>이문주 윤정 이재성'
+credits: '<착륙 버튼 없는 여행><br>하마립스 으마카세 쏭해<br><br><무인 사진관><br>구경석<br>이문주 윤정 이재성'
 
 # Build settings
 markdown: kramdown
